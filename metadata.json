@@ -1,0 +1,8 @@
+{
+  "id": "grappling_hook_26",
+  "name": "Grappling Gun Mod",
+  "version": "1.0.0",
+  "author": "Custom",
+  "description": "Crafte eine Armbrust und eine Angel zu einem Grappling Hook zusammen.",
+  "entry": "main.lua"
+}
